@@ -49,8 +49,8 @@ The SMS Spam Detection project utilizes machine learning and Natural Language Pr
 
 ### Prerequisites
 
-pip install wordcloud
-pip install NLTK
+```pip install wordcloud```
+```pip install NLTK```
 
 ### Installation
 
@@ -60,18 +60,12 @@ Download anaconda and use their jupyter notebook or just add these command in th
 
 SMS spam detection ML models automatically identify and block unwanted text messages, ensuring users receive only relevant and legitimate content. By analyzing message content and metadata, these models filter out spam, scams, and phishing attempts, safeguarding users from potential harm and distractions. They enhance user experience by reducing clutter and protecting against security threats posed by malicious links or malware. Moreover, compliance with regulations regarding unsolicited messages is ensured, fostering trust and adherence to legal standards. Ultimately, SMS spam detection models optimize communication channels, promoting efficiency, security, and user satisfaction in mobile messaging environments.
 
-### Creating A Pull Request
-
-
-
 ## Authors
 
-* **Priyanshu Singh** - *https://www.linkedin.com/in/priyanshu-singh-560b16253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app* - [Priyanshu Singh]() - **
-* **Aditya Pratap Singh** - *https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app* - [Aditya Pratap Singh]() - **
-* **Srijan Sarkar** - *https://www.linkedin.com/in/srijan-sarkar-90177b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app* - [Srijan Sarkar]() - **
+* *Priyanshu Singh* - https://www.linkedin.com/in/priyanshu-singh-560b16253
+* *Aditya Pratap Singh* - https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287
+* *Srijan Sarkar* - https://www.linkedin.com/in/srijan-sarkar-90177b288
 
 ## Acknowledgements
 
 * [ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER ](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)
-* []()
-* []()
