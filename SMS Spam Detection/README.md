@@ -16,7 +16,7 @@
 </p>
 
 ![Contributors](https://img.shields.io/github/contributors/Priyanshusingh0818/SMS_Spam_Detection_ACM?color=dark-green) ![Forks](https://img.shields.io/github/forks/Priyanshusingh0818/SMS_Spam_Detection_ACM?style=social) ![Issues](https://img.shields.io/github/issues/Priyanshusingh0818/SMS_Spam_Detection_ACM) ![License](https://img.shields.io/github/license/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/R-D-Projects-April-2024) 
-![Repo size](https://img.shields.io/github/repo-size/Priyanshusingh0818/SMS_Spam_Detection_ACM)
+![Project size](https://img.shields.io/github/repo-size/Priyanshusingh0818/SMS_Spam_Detection_ACM)
 ![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/R-D-Projects-April-2024.svg)
 
 ## Table Of Contents
