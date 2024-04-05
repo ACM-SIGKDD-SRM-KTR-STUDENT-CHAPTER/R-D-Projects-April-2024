@@ -51,9 +51,12 @@ The SMS Spam Detection project utilizes machine learning and Natural Language Pr
 
 ```bash
 pip install wordcloud
+```
 
 ```bash
 pip install NLTK
+```
+
 
 ### Installation
 
